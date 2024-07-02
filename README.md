@@ -10,6 +10,7 @@
 
 Meu grande sonho é trabalhar no desenvolvimento do meu primeiro jogo. Estou sempre disposta a aprender algo novo para alcançar esse objetivo.
 
+<br>
 
 <!-- GIF -->
 <img align="center" alt="img" src="https://i.pinimg.com/originals/dc/0b/e1/dc0be1e02f1aa1f113b217facb3a9109.gif" />
@@ -21,7 +22,7 @@ Meu grande sonho é trabalhar no desenvolvimento do meu primeiro jogo. Estou sem
 Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acredito que isso me ajudará a desenvolver outras habilidades importantes, como comunicação, criatividade e criação de conteúdos mais avançados.
 </p>
 
-<br>
+<br><br>
 
 <!-- Dropdown -->
 <details>
@@ -34,11 +35,13 @@ Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acred
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-p-9a6393307/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](x)
 
+<br><br>
 
 <!-- GithubStats -->
 ![Alice GitHub stats](https://github-readme-stats.vercel.app/api?username=lice-code&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lice-code&show_icons=true&theme=gotham)](https://github.com/lice-code/github-readme-stats)
 
+<br>
 
 <!-- Portfolio -->
 ## Portfolio:
