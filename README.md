@@ -27,8 +27,11 @@ Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acred
 <!-- Dropdown -->
 <details>
   <summary>🖥️ Mais Sobre mim</summary>
-</details>
-
+  </details>
+  <p>
+♦️ Eu gosto de ler e jogar, normalmente coisas de terror ou ação. Também assisto filmes e séries de diversos gêneros. Acredito que nossos interesses pessoais podem, de alguma forma, nos ajudar a desenvolver e solucionar projetos e problemas com mais facilidade.
+  </p>
+<br><br>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lice_code/)
