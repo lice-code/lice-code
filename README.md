@@ -6,22 +6,26 @@
 
 <!-- Presentation -->
 <p>
-   Olá Mundo🖖🏻, Sou a Alice! Uma estudante de Designer Web no Espirito Santo. Atualmente estudo desenvolvimento web e tive uma pequena experiencia com cibersegurança.
+   Olá Mundo!🖖🏻 Sou a Alice, uma estudante de Design Web no Espírito Santo. Atualmente, estou me aprofundando no desenvolvimento web e já tive uma pequena experiência com cibersegurança.
 
-Meu sonho e trabalhar e desenvolver meu primeiro jogo, não me importando de aprende algo a mais se necessario.
+Meu grande sonho é trabalhar no desenvolvimento do meu primeiro jogo. Estou sempre disposta a aprender algo novo para alcançar esse objetivo.
 
+
+<!-- GIF -->
 <img align="center" alt="img" src="https://i.pinimg.com/originals/dc/0b/e1/dc0be1e02f1aa1f113b217facb3a9109.gif" />
 
-♦️ Tenho 17 anos e atualmente vivo no Espirito Santo Brasil, não sou fluente em inglês, porem, pretendo me aprofundar no assunto. Já mexi com JavaScript, Html, Csse Python, mas não não posso dizer que tenho 100% de experiencia com ambos. Pretendo começar a trabalhar com conteúdos de designer web no Instagram, o que poder me ajudar a desenvolver outras habilidades, como comunicação, criatividade e criação de conteúdos mais desenvolvidos.
+<br>
+
+♦️ Tenho 17 anos e atualmente vivo no Espírito Santo, Brasil. Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no assunto. Já tive contato com JavaScript, HTML, CSS e Python, mas ainda não posso dizer que tenho 100% de experiência com eles.
+
+Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acredito que isso me ajudará a desenvolver outras habilidades importantes, como comunicação, criatividade e criação de conteúdos mais avançados.
 </p>
+
+<br>
 
 <!-- Dropdown -->
 <details>
-  <summary>🖥️ Sobre mim</summary>
-
-☕ X
-
-♦️ X \o/
+  <summary>🖥️ Mais Sobre mim</summary>
 </details>
 
 
@@ -44,10 +48,6 @@ Meu sonho e trabalhar e desenvolver meu primeiro jogo, não me importando de apr
 - [xxxxx](x)
 - [xxxxx](x)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ## 📚 Habilidades
 <!-- Skills: Programming Languages -->
