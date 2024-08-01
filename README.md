@@ -48,7 +48,7 @@ Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acred
 
 <!-- Portfolio -->
 ## Portfolio:
-- [MEUS PROJETOS]([x](https://github.com/lice-code/projetos_alice.git))
+- [MEUS PROJETOS](https://github.com/lice-code/projetos_alice.git)
 - [xxxxx](x)
 - [xxxxx](x)
 - [xxxxx](x)
