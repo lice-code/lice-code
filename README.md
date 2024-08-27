@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-   Olá Mundo!🖖🏻 Sou a Alice, uma estudante de Design Web no Espírito Santo. Atualmente, estou me aprofundando no desenvolvimento web e já tive uma pequena experiência com cibersegurança.
+   Olá Mundo!🖖🏻 Sou a Alice, uma estudante de Design Web e desenvolvimento de jogos no Espírito Santo. Atualmente, estou me aprofundando no desenvolvimento web e já tive uma pequena experiência com cibersegurança.
 
 Meu grande sonho é trabalhar no desenvolvimento do meu primeiro jogo. Estou sempre disposta a aprender algo novo para alcançar esse objetivo.
 
