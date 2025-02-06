@@ -83,15 +83,10 @@ Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acred
 
 
 <div style="flex-basis: 48%;">
-    <h3>Software</h3>
-    <img align="center" alt="figma" height="30" width="40" 
-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40">
-
-
-
-<div style="flex-basis: 48%;">
     <h3>Outros</h3>
     <img align="center" alt="git" height="30" width="40" 
 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40">
+  <img align="center" alt="figma" height="30" width="40" 
+src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40">
 </div>
 
