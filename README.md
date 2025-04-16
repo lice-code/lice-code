@@ -6,9 +6,11 @@
 
 <!-- Presentation -->
 <p>
-   Olá Mundo!🖖🏻 Sou a Alice, uma estudante de Design Web e desenvolvimento de jogos no Espírito Santo. Atualmente, estou me aprofundando no desenvolvimento web e já tive uma pequena experiência com cibersegurança.
+  Hello, World! 🖖🏻
 
-Meu grande sonho é trabalhar no desenvolvimento do meu primeiro jogo. Estou sempre disposta a aprender algo novo para alcançar esse objetivo.
+Me chamo Alice e sou estudante de Design Web. Também tive uma breve experiência com Cibersegurança — área pela qual desenvolvi bastante interesse e na qual pretendo atuar futuramente como Técnica em Segurança da Informação.
+
+Busco me desenvolver na área, unindo conhecimento técnico com criatividade e pensamento estratégico.
 
 <br>
 
@@ -17,26 +19,26 @@ Meu grande sonho é trabalhar no desenvolvimento do meu primeiro jogo. Estou sem
 
 <br>
 
-♦️ Tenho 17 anos e atualmente vivo no Espírito Santo, Brasil. Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no assunto. Já tive contato com JavaScript, HTML, CSS e Python, mas ainda não posso dizer que tenho 100% de experiência com eles.
+Tenho 18 anos e atualmente moro no Espírito Santo, Brasil. Tendo tido contato com JavaScript, HTML, CSS, React e Node.Js durante meus estudos, o que me ajuda a ter uma base do que quero de fato para o futuro.
 
-Pretendo começar a compartilhar conteúdos sobre design web no Instagram. Acredito que isso me ajudará a desenvolver outras habilidades importantes, como comunicação, criatividade e criação de conteúdos mais avançados.
+
+Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no assunto. Planejo começar a compartilhar conteúdos no Instagram como forma de desenvolver minhas habilidades em comunicação, criatividade e produção de conteúdo.
 </p>
 
 <br><br>
 
-<!-- Dropdown -->
+<!-- Dropdown --> (resolver isso -> ta errado)
 <details>
   <summary>🖥️ Mais Sobre mim</summary>
   </details>
   <p>
-♦️ Eu gosto de ler e jogar, normalmente coisas de terror ou ação. Também assisto filmes e séries de diversos gêneros. Acredito que nossos interesses pessoais podem, de alguma forma, nos ajudar a desenvolver e solucionar projetos e problemas com mais facilidade.
+Fora das telas e dos códigos, gosto de ler, assistir vídeos e escrever — acredito que nossos interesses pessoais são grandes aliados na hora de resolver problemas e criar soluções com mais empatia.
   </p>
 <br><br>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lice_code/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-dos-passos-silva-9a6393307/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alicepsilva)
 
 <br><br>
 
