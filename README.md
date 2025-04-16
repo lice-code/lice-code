@@ -27,11 +27,21 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
 
 <br><br>
 
-<!-- Dropdown --> (resolver isso -> ta errado)
+<!-- Dropdown -->
 <details>
-  <summary>🖥️ Mais Sobre mim</summary>
+  ## 🖥️ Mais Sobre mim
   <p>
-Fora das telas e dos códigos, gosto de ler, assistir vídeos e escrever — acredito que nossos interesses pessoais são grandes aliados na hora de resolver problemas e criar soluções com mais empatia.
+🧠 Curiosa por arte: Sempre fui movido pela vontade de entender como a arte funciona de diferentes formas, lugares, ambientes, razões, emoções ou sentimentos (Seja por quadros, livros, desenhos, música, e até por nossa própria visão)
+
+📚 Amante das palavras: Além da tecnologia, tenho uma relação forte com a escrita. Gosto de transformar ideias em textos e acredito que boas histórias têm o poder de conectar pessoas — mesmo em ambientes técnicos.
+
+🎥 Exploro o mundo com vídeos: Seja documentário, fatos históricos, algo sobre comportamento humano, ou meus terrorzinhos favoritos, assistir vídeos é uma das formas que uso pra expandir meu repertório e inspirar novas ideias.
+
+✍️ Escrevo pra pensar melhor: Às vezes, minhas ideias só fazem sentido quando as coloco no papel (ou no bloco de notas). Escrever me ajuda a organizar pensamentos e enxergar soluções com mais clareza.
+
+🎨 Criatividade como ferramenta: Gosto de experimentar — seja criando um texto, testando uma nova ferramenta ou pensando numa solução diferente pra um problema técnico. A criatividade está presente em tudo.
+
+🔁 Aprendo o tempo todo: Tenho prazer em aprender algo novo, mesmo fora da área de tecnologia. Isso me ajuda a olhar os desafios com outros olhos e trazer soluções mais humanas e adaptadas a diferentes contextos.
   </p>
   </details>
   
