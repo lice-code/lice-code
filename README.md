@@ -30,10 +30,11 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
 <!-- Dropdown --> (resolver isso -> ta errado)
 <details>
   <summary>🖥️ Mais Sobre mim</summary>
-  </details>
   <p>
 Fora das telas e dos códigos, gosto de ler, assistir vídeos e escrever — acredito que nossos interesses pessoais são grandes aliados na hora de resolver problemas e criar soluções com mais empatia.
   </p>
+  </details>
+  
 <br><br>
 
 <!-- Links -->
