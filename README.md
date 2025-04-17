@@ -65,6 +65,7 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
 - [xxxxx](x)
 - [xxxxx](x)
 
+<br><br>
 
 ## 💡 Habilidades
 <!-- Skills: Programming Languages -->
@@ -72,7 +73,7 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
     <h3>Ferramenta que utilizo para programar:</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
-
+<br>
 
 <div style="flex-basis: 48%;">
     <h3>Dev. front-end</h3>
@@ -80,13 +81,13 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-
+<br>
 
 <div style="flex-basis: 48%;">
     <h3>Dev. back-end</h3>
     <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs">
 
-
+<br>
 
 <div style="flex-basis: 48%;">
     <h3>Outros</h3>
