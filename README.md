@@ -1,14 +1,12 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World 🖖🏻</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hello, World! 🖖🏻
-
-Me chamo Alice e sou estudante de Design Web. Também tive uma breve experiência com Cibersegurança — área pela qual desenvolvi bastante interesse e na qual pretendo atuar futuramente como Técnica em Segurança da Informação.
+  ✨ Me chamo Alice e sou estudante de Design Web. Também tive uma breve experiência com Cibersegurança — área pela qual desenvolvi bastante interesse e na qual pretendo atuar futuramente como Técnica em Segurança da Informação.
 
 Busco me desenvolver na área, unindo conhecimento técnico com criatividade e pensamento estratégico.
 
@@ -19,7 +17,7 @@ Busco me desenvolver na área, unindo conhecimento técnico com criatividade e p
 
 <br>
 
-Tenho 18 anos e atualmente moro no Espírito Santo, Brasil. Tendo tido contato com JavaScript, HTML, CSS, React e Node.Js durante meus estudos, o que me ajuda a ter uma base do que quero de fato para o futuro.
+  ☕ Tenho 18 anos e atualmente moro no Espírito Santo, Brasil. Tendo tido contato com JavaScript, HTML, CSS, React e Node.Js durante meus estudos, o que me ajuda a ter uma base do que quero de fato para o futuro.
 
 
 Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no assunto. Planejo começar a compartilhar conteúdos no Instagram como forma de desenvolver minhas habilidades em comunicação, criatividade e produção de conteúdo.
@@ -29,7 +27,7 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
 
 <!-- Dropdown -->
 <details>
-  ## 🖥️ Mais Sobre mim
+ <summary>🖥️ Mais curiosidades sobre mim</summary>
   <p>
 🧠 Curiosa por arte: Sempre fui movido pela vontade de entender como a arte funciona de diferentes formas, lugares, ambientes, razões, emoções ou sentimentos (Seja por quadros, livros, desenhos, música, e até por nossa própria visão)
 
@@ -60,7 +58,7 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
 <br>
 
 <!-- Portfolio -->
-## Portfolio:
+## 📋 Portfolio:
 - [MEUS PROJETOS](https://github.com/lice-code/projetos_alice.git)
 - [xxxxx](x)
 - [xxxxx](x)
@@ -68,16 +66,16 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
 - [xxxxx](x)
 
 
-## 📚 Habilidades
+## 💡 Habilidades
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
-    <h3>Ferramentas que programo</h3>
+    <h3>Ferramenta que utilizo para programar:</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 
 
 <div style="flex-basis: 48%;">
-    <h3>Programção</h3>
+    <h3>Dev. front-end</h3>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -85,7 +83,7 @@ Embora eu não seja fluente em inglês, tenho a intenção de me aprofundar no a
 
 
 <div style="flex-basis: 48%;">
-    <h3>Desenvolvimento de back-end</h3>
+    <h3>Dev. back-end</h3>
     <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs">
 
 
